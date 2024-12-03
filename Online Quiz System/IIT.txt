@@ -1,0 +1,45 @@
+IIT - Group O
+
+
+--Group Member Details--
+
+
+1. UWU/IIT/20/042 - K.M.R.C.Ketayamge
+2. UWU/IIT/20/069 – T.Mathurjan
+3. UWU/IIT/20/070 – N.Jenova
+4. UWU/IIT/20/078 – M.H.A.Senevirathne
+5. UWU/IIT/20/085 – W.G.K.Piyumantha 
+
+
+
+--Individual Contribution--
+
+
+
+1. UWU/IIT/20/042 
+
+	-Quiz Page
+	-Results Student View Page
+
+
+2. UWU/IIT/20/069 
+
+	-Add New Quiz Page
+
+
+3. UWU/IIT/20/070 
+
+	-Quiz Results Page
+
+
+4. UWU/IIT/20/078 
+
+	Login
+	Student Home Page
+	Teacher Home Page
+
+
+5. UWU/IIT/20/085 
+
+	Admin Page
+	Take Quiz Page

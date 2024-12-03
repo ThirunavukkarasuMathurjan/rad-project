@@ -1,0 +1,50 @@
+teacher
+ - id
+ - username
+ - password
+ - name
+
+ subject
+ - id
+ - name
+ - teacher.id
+
+student
+ - id
+ - username
+ - password
+ - name
+
+student_subject
+ - id
+ - student.id
+ - subject.id
+
+quiz
+ - id
+ - name
+ - description
+ - deadline
+ - duration
+ - subject.id
+
+question
+ - id
+ - question
+ - quiz.id
+
+answer
+ - id
+ - question.id
+ - choice1
+ - choice2
+ - choice3
+ - choice4
+ - correct
+
+results
+ - id
+ - student.id
+ - quiz.id
+ - score
+ - completed_date
